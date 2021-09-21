@@ -1,0 +1,4 @@
+"Ini adalah file CV"
+PT PAL Surabaya
+PT BKI
+PT JMI
