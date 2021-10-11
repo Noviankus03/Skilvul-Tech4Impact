@@ -15,7 +15,7 @@ export default function validateLoginData(email, password) {
 
     if (emailRegex.test(email)) {
         if (passwordRegex.test(password)) {
-            return `Welcome to the Jungle`
+            return `Hello`
         } else {
             return `Tolong masukkan password sesuai dengan ketentuan`
         }
