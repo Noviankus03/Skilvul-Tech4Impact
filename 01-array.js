@@ -1,4 +1,4 @@
-//01
+//sOAL 01
 const arr = [1, 2, 3];
 const arr2 = [8, 1, 5, 7];
 function reverse(ar) {
@@ -11,7 +11,7 @@ const newArr2 = reverse(arr2);
 console.log(arr, newArr);
 console.log(arr2, newArr2);
 
-//02
+//SOAL 02
 const arr1 = [1, 3, 4, 1, 2, 8];
 const arr2 = [5, 6, 7, 8, 1, 3];
 
@@ -44,7 +44,7 @@ console.log(
     getAverage(arr2)
 );
 
-//03
+//SOAL 03
 function flatten(ary) {
   var ret = [];
   for (var i = 0; i < ary.length; i++) {
