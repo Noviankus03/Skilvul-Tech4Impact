@@ -1,0 +1,11 @@
+Apa itu localStorage?
+Sebuah object di javascript yang memungkinkan kita untuk menyimpan data string dengan model penyimpanan key: value.
+
+Apa itu cookies?
+Serangkaian teks yang disimpan pada komputer Anda oleh situs web yang Anda kunjungi.
+
+Apa perbedaan antara localStorage dan sessionStorage?
+Menggunakan Local Storage dan Session Storage
+window.localStorage : data yang disimpan tidak memiliki waktu expired
+window.sessionStorage : data yang disimpan akan hilang jika browes ditutup
+Pada dasarnya untuk menggunakan localStorage dan sessionStorage sama, terlebih dahulu kita harus mengatur key dan value nya. Langsung saja berikut adalah penjelasan cara Menggunakan Local Storage dan Session Storage.
