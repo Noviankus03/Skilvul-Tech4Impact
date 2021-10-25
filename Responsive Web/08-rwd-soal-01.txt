@@ -1,1 +1,14 @@
+1. Apa itu responsive web design?
+sebuah metode atau pendekatan sistem web desain yang bertujuan memberikan pengalaman berselancar yang optimal dalam berbagai perangkat, baik mobile maupun pc.
 
+2. Sebutkan apa saja relative units yang dimiliki oleh CSS?
+rem, vh, vw, vmin, vmax, ex, ch, em
+
+3. Apa itu breakpoint? Bagaimana cara kita membuat hal tersebut?
+Breakpoint adalah sebuah titik-titik yang digunakan untuk mengubah layout (dipilih)
+
+4. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 1 dimensi?
+Kita dapat memanipulasi tata letak suatu element dalam bidang 1 dimensi dengan grid
+
+5. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 2 dimensi?
+Kita dapat memanipulasi tata letak suatu element dalam bidang 1 dimensi dengan flexbox
